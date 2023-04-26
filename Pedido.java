@@ -1,3 +1,3 @@
-Public class Pedido{
+public class Pedido{
 
 }
